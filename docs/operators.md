@@ -54,7 +54,7 @@ Returns `left` merged with `right`, with duplicate keys taking the value from `r
 
 ### Subtract (`-`) {data-toc-label='Subtract'}
 [int](data_types.md#integer) - [int](data_types.md#integer)  
-Returns `left` minus `right`.
+Returns `left` minus `right`.f
 
 ---
 
